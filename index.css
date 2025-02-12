@@ -1,0 +1,41 @@
+header {
+  background-color: black;
+  overflow: hidden;
+  /* width: 1200px; */
+  /* margin-left:300px;
+  margin-right: 300px; */
+}
+
+
+.blog-header-img {
+  /* background-color: aliceblue; */
+  float:left;
+  margin: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.blog-header-text {
+  /* width: 300px; */
+  float: right;
+  color: aliceblue;
+  text-align: right;
+  margin-bottom: 5px;  
+  /* border-style: solid;
+  border-color: rebeccapurple; */
+  margin-right: 20px;
+  font-size: 50px;
+}
+
+.blog-header-dec {
+  color:antiquewhite;
+  text-align: right;
+  padding: none;
+  /* border-style: solid;
+  border-color: red; */
+  clear: both;
+  /* display: block; */
+  margin-top: 0;
+  font-size: smaller;
+  margin-right: 20px;
+}
